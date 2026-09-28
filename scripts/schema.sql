@@ -1,0 +1,2 @@
+-- WorkLog Pro MySQL Schema
+-- Ver schema.sql en la raíz para la versión completa con comentarios

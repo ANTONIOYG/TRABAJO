@@ -1,0 +1,25 @@
+{
+  "name": "WorkLog Pro - Control de Jornadas y Horas Extras",
+  "short_name": "WorkLog Pro",
+  "description": "Sistema profesional para control de horarios, jornadas laborales y horas extras con funcionamiento 100% offline.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "utilities"]
+}
